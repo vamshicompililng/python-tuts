@@ -5,10 +5,10 @@ if num%2==0:
 else:
     print("its a odd number")
 
-n1=int(input("enter value of a: "))
-n2=int(input("enter value of b: "))
-n3=int(input("enter value of c: "))
-n4=int(input("enter value of d: "))
+n1=int(input("enter value of n1: "))
+n2=int(input("enter value of n2: "))
+n3=int(input("enter value of n3: "))
+n4=int(input("enter value of n4: "))
 if n1>=n2 and n1>=n3 and n1>=n4:
     print("n1 is greater")
 elif n2>=n1 and n2>=n3 and n2>=n4:
