@@ -30,3 +30,10 @@ if l1==l2:
     print("its a palindrome")
 else:
     print("its not a palindrome")
+
+
+n1=100
+n2=300
+
+add=n1+n2
+print(add)
